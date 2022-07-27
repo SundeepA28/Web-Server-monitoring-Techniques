@@ -11,7 +11,7 @@ A combination of different types of tools like Wireshark, nmap, netstat is to be
 -> Technique to monitor TCP reset connections sent to and from the Web Server with wireshark output</br>
 -> Technique to monitor established open connections on a Web Server with netstat output</br>
 -> Technique to monitor TCP half open connections on the Web Server with netstat output</br>
--> Technique to monitor requests to a specific application on the Web server with wireshark output
--> Technique to monitor HTTP GET requests to the web server with wireshark output
--> Technique to monitor server bandwidth with netstat output
--> Technique to monitor the port status of a Web Server with nmap output
+-> Technique to monitor requests to a specific application on the Web server with wireshark output</br>
+-> Technique to monitor HTTP GET requests to the web server with wireshark output</br>
+-> Technique to monitor server bandwidth with netstat output</br>
+-> Technique to monitor the port status of a Web Server with nmap output</br>
